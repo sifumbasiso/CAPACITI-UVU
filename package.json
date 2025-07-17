@@ -20,6 +20,9 @@
     "react-speech-recognition": "^3.10.0",
     "regenerator-runtime": "^0.14.1"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
     "@types/react": "^18.2.56",
