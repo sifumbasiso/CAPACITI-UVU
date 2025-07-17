@@ -1,0 +1,5 @@
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 10 L40 10 L30 25 L40 40 L20 40 L30 25 Z" fill="#001F3F"/>
+  <path d="M45 10 L65 10 L55 25 L65 40 L45 40 L55 25 Z" fill="#FF6B6B"/>
+  <text x="75" y="32" font-family="Arial" font-size="24" font-weight="bold" fill="#001F3F">CAPACITI</text>
+</svg>

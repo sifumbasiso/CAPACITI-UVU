@@ -1,0 +1,60 @@
+Project Title: CAPACITI AI Chatbot
+Project Overview:
+The goal of this project is to develop an AI-powered chatbot that can answer user queries about CAPACITI. The chatbot should provide accurate, real-time responses based on company information, services, programs, and other relevant details.
+Project Objectives:
+1.	Develop an AI chatbot that interacts with users in natural language.
+2.	Ensure the chatbot can provide relevant and up-to-date information about CAPACITI.
+3.	Implement user-friendly features such as text-based and voice-based interactions.
+4.	Support multiple question types, including FAQs, program details, and general inquiries.
+5.	Store and analyze chat interactions for future improvements.
+6.	Integrate a document containing CAPACITI's information for the chatbot to retrieve and respond to queries.
+Core Features:
+1.	Natural Language Processing (NLP): The chatbot should understand and process user queries using AI techniques.
+2.	AI-Powered Responses: The chatbot should retrieve and generate accurate answers from a predefined document containing CAPACITI's information.
+3.	Document-Based Knowledge Retrieval: Instead of web scraping, the chatbot should rely on a structured document to provide up-to-date and verified responses.
+4.	Multi-Channel Support: The chatbot should work on different platforms such as a website, mobile app, or messaging apps.
+5.	User Authentication (Optional): Allow users to sign up or log in for personalized interactions.
+6.	Logging & Analytics: Record user interactions to improve chatbot responses over time.
+7.	Admin Dashboard: A simple interface for updating company information and monitoring chatbot performance.
+8.	Voice Interaction (Optional): Support for text-to-speech and speech-to-text for accessibility.
+9.	Brand Consistency: The chatbot's design and color scheme must align with CAPACITI's official brand colors for a professional and cohesive look.
+Technical Requirements:
+1.	Programming Languages: Python (FastAPI, Flask) or JavaScript (Node.js, Express.js).
+2.	AI Integration: OpenAI API or other NLP libraries such as spaCy or Rasa.
+3.	Database: Firebase, PostgreSQL, or MongoDB for storing FAQs and user interactions.
+4.	Document Processing: Utilize PDF, JSON, or a structured text file to store and retrieve CAPACITI's information.
+5.	Frontend (if applicable): React, Vue.js, or a chatbot widget integrated into a website.
+6.	Hosting & Deployment: Cloud-based services like AWS, Azure, or Firebase.
+7.	Security: Implement basic security measures to prevent abuse (e.g., rate limiting, authentication).
+Development Phases:
+1.	Research & Planning: Gather information about CAPACITI and define chatbot scope.
+2.	Design & Prototyping: Create conversation flows and UI wireframes.
+3.	Development: Build and train the chatbot using AI tools.
+4.	Testing & Debugging: Ensure chatbot accuracy and fix any issues.
+5.	Deployment: Launch the chatbot on the selected platforms.
+6.	Maintenance & Updates: Continuously improve responses and features based on user feedback.
+Deliverables:
+•	AI chatbot with functional NLP capabilities.
+•	CAPACITI knowledge base stored in a structured document for chatbot responses.
+•	Documentation detailing chatbot usage and maintenance.
+•	A presentation or demo showcasing chatbot functionality.
+Evaluation Criteria:
+1.	Accuracy: How well the chatbot responds to user queries.
+2.	Usability: Ease of interaction and user experience.
+3.	Performance: Speed and efficiency of responses.
+4.	Scalability: Ability to handle multiple queries simultaneously.
+5.	Innovation: Unique features and enhancements.
+6.	Presentation Quality: Clarity, creativity, and engagement in presenting the chatbot.
+Presentation Requirements:
+•	The final presentation should showcase the chatbot's functionality, implementation details, and challenges faced.
+•	The presentation slides should highlight:
+o	The AI technology used.
+o	How the chatbot retrieves and processes information.
+o	Design choices and user experience considerations.
+o	Key features and innovations implemented.
+o	Lessons learned and future improvements.
+o	Colors of the chatbot must be CAPACITI color’s
+Additional Notes:
+•	Candidates are encouraged to use AI tools creatively.
+•	Bonus points for integrating voice commands or multi-language support.
+•	Open-source solutions are recommended to speed up development.
